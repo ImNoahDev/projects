@@ -22,3 +22,7 @@ body {
   clear: both;
   display: table;
 }
+img {
+    height: 100px;
+    object-fit: cover;
+}
