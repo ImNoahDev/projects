@@ -10,10 +10,9 @@ body {
 * {
   box-sizing: border-box;
 }
-
-.left {
-  float:left;
-}
-.right {
-  float:right;
+.img {
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-size: cover;
 }
