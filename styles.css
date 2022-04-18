@@ -3,6 +3,10 @@
     background-color: black;
 }
 
+.card-body{
+        border: 1px solid #008000;
+}
+
 /* hero background image */
 .bgimage {
     height:100vh;
@@ -52,10 +56,10 @@
 .card-title {
     text-align: center;
 }
-.card .servicesIcon {
+.card:hover .servicesIcon {
     color: #008000;
 }
-.servicesText {
+.servicesText:hover {
     border: 1px solid #008000;
 }
 
