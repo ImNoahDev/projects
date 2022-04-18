@@ -52,10 +52,10 @@
 .card-title {
     text-align: center;
 }
-.card:hover .servicesIcon {
+.card .servicesIcon {
     color: #008000;
 }
-.servicesText:hover {
+.servicesText {
     border: 1px solid #008000;
 }
 
